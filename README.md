@@ -9,3 +9,6 @@ Additions from the community are welcomed:
  - You can also let me know of an interaction via private channels (slack, twitter, email...)
 
 Many thanks to all that contributed!
+
+
+Note: The name of the maintainer and the CRAN reviewer might be anonymous or not and the one posting it might be the one involved on the exchange or not.
