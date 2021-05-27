@@ -10,5 +10,10 @@ Additions from the community are welcomed:
 
 Many thanks to all that contributed!
 
+## Other considerations
 
-Note: The name of the maintainer and the CRAN reviewer might be anonymous or not and the one posting it might be the one involved on the exchange or not.
+ - The name of the maintainer and the CRAN reviewer might be anonymous or not. 
+ - The user posting it might be the one involved on the exchange or not.
+ - There is no way to verify the content of the records stored here.
+ - The nature of this collection will be biased. Most of the hundreds of positive interactions that happen on CRAN won't end up appearing here. 
+ - This collection is primary to see if there is some negative experience repeating or a common pattern to them.
