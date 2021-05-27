@@ -6,6 +6,8 @@ Additions from the community are welcomed:
 
  - +1 if you got a similar experience
  - Open a new issue if this is a different and new history
+   -  Add as much relevant context as you can
+   -  Disclose if the content is in name of others or you are involved on the experience. 
  - You can also let me know of an interaction via private channels (slack, twitter, email...)
 
 Many thanks to all that contributed!
