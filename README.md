@@ -1,13 +1,13 @@
 # CRAN histories
 
-Collection of exchanges with CRAN reviewers and maintainer.
+Collection of exchanges with CRAN reviewers and maintainers.
 This collection is primary to see if there are common patterns, both positive and negative.
 The nature of this collection will be a small biased not representative CRAN interactions. 
 Most of the hundreds of positive interactions that happen with CRAN members won't end up appearing here. 
 
 Additions from the community are welcomed:
 
- - +1 if you got a similar experience to the onse listed on [discussions](https://github.com/cranchange/cran_histories/discussions/)
+ - +1 if you got a similar experience to the ones listed on [discussions](https://github.com/cranchange/cran_histories/discussions/)
  - Open a new [discussion](https://github.com/cranchange/cran_histories/discussions/new) if this is a different and new history
    -  Add as much relevant context as you can
    -  Disclose if the content is in name of others or you are involved on the experience. 
